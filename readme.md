@@ -62,7 +62,7 @@ Con este ejemplo aprendí que la herencia básica permite construir clases hijas
 
 **MINI_PROYECTO**
 
-# Reto: Jerarquía de Productos en Python
+# Reto 
 
 Este proyecto demuestra el uso de herencia, sobreescritura de métodos, polimorfismo y reutilización de código en Python, a través de una jerarquía de productos. Se parte de una clase base (Producto) y se construyen clases hijas (Alimento y Electrónico) que amplían y personalizan sus funcionalidades.
 
